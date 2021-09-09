@@ -1,16 +1,16 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #E8F299;
 }
 
 a {
-  color: #149ddd;
+  color: #F24607;
   text-decoration: none;
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #F24607;
   text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #F24607;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -34,13 +34,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #E8F299;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #2eafec;
-  color: #fff;
+  background: #F24607;
+  color: #E8F299;
 }
 
 .back-to-top.active {
