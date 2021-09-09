@@ -58,15 +58,15 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #494949;
+  background: #73482F;
   overflow-y: auto;
 }
 
 #header .profile img {
-  margin: 15px auto;
+  margin: 10px auto;
   display: block;
   width: 120px;
-  border: 8px solid #000;
+  border: 8px solid #F2911B;
 }
 
 #header .profile h1 {
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .profile h1 a, #header .profile h1 a:hover {
-  color: #000;
+  color: #F2911B;
   text-decoration: none;
 }
 
@@ -236,10 +236,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #fff;
+  color: #E8F299;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #73482F;
 }
 
 @media (min-width: 1024px) {
@@ -269,7 +269,7 @@ section {
 }
 
 .section-bg {
-  background: #90b6fd;
+  background: #F2600C;
 }
 
 .section-title {
@@ -282,7 +282,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #E8F299;
 }
 
 .section-title h2::after {
@@ -291,7 +291,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #F24607;
   bottom: 0;
   left: 0;
 }
@@ -306,7 +306,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #173b6c;
+  color: #E8F299;
 }
 
 .about .content ul {
@@ -327,7 +327,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: #F2911B;
   line-height: 0;
 }
 
@@ -335,9 +335,6 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Facts
---------------------------------------------------------------*/
 .facts {
   padding-bottom: 30px;
 }
@@ -350,7 +347,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #E8F299;
   float: left;
   line-height: 0;
 }
@@ -369,26 +366,23 @@ section {
   margin: 0 0 0 60px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #122f57;
+  color: #F24607;
 }
 
 .facts .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #122f57;
+  color: #F24607;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
 .facts .count-box a:hover {
-  color: #1f5297;
+  color: #F24607;
 }
 
-/*--------------------------------------------------------------
-# Akills
---------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
   display: block;
