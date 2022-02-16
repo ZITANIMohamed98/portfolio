@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+                                            -2022-
+                                 Boost up year, here is my version 1.0
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
